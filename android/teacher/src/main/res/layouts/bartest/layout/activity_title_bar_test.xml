@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/activity_main"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context="com.example.teacher.bartest.TitleBarTest">
+
+    <common.CustomTitleBar
+        android:id="@+id/tb_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title_text="标题一"
+        app:left_button_text="返回"/>
+
+    <common.CustomTitleBar
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:show_left_button="false"
+        app:title_text="标题二"/>
+
+    <common.CustomTitleBar
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:show_right_button="false"
+        app:title_text="标题三"/>
+
+    <common.CustomTitleBar
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:show_left_button="false"
+        app:show_right_button="false"
+        app:title_text="标题四"/>
+</LinearLayout>
