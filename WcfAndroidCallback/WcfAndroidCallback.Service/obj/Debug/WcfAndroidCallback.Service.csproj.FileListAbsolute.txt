@@ -1,0 +1,7 @@
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\bin\Debug\WcfAndroidCallback.Service.dll
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\bin\Debug\WcfAndroidCallback.Service.pdb
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\obj\Debug\WcfAndroidCallback.Service.csprojResolveAssemblyReference.cache
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\obj\Debug\WcfAndroidCallback.Service.dll
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\obj\Debug\WcfAndroidCallback.Service.pdb
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\bin\Debug\WcfAndroidCallback.Service.Interface.dll
+D:\F文档\项目\WcfAndroidCallback\WcfAndroidCallback.Service\bin\Debug\WcfAndroidCallback.Service.Interface.pdb
