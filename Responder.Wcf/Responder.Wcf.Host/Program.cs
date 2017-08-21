@@ -23,6 +23,9 @@ namespace Responder.Wcf.Host
                 {
                     input = Console.ReadLine();
                 }
+
+                //host.ChannelDispatchers;
+
             }
         }
     }

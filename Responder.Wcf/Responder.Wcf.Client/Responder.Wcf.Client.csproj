@@ -51,7 +51,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WcfAndroidCallback.Service.Interface\Responder.Wcf.Interface.csproj">
+    <ProjectReference Include="..\Responder.Wcf.Service.Interface\Responder.Wcf.Interface.csproj">
       <Project>{f739a38b-c610-4271-81b7-88389b2daced}</Project>
       <Name>Responder.Wcf.Interface</Name>
     </ProjectReference>

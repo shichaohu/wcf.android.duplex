@@ -11,6 +11,11 @@ namespace Responder.Wcf.Service.Interface
     public interface IAndroidService
     {
         [OperationContract]
+        bool Regist(string name,out string message);
+
+        [OperationContract]
+        bool Logout(string name);
+        [OperationContract]
         string PrintString(string value);
 
         [OperationContract]
@@ -22,5 +27,7 @@ namespace Responder.Wcf.Service.Interface
     {
         [OperationContract(IsOneWay = true)]
         void Show(string backMessage);
+        [OperationContract(IsOneWay = true)]
+        void Close();
     }
 }
