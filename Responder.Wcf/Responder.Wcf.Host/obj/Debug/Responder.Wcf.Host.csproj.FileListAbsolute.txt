@@ -1,0 +1,13 @@
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Host.exe.config
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Host.exe
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Host.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Service.dll
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Service.Interface.dll
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Service.Interface.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\bin\Debug\WcfAndroidCallback.Service.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\obj\Debug\Responder.Wcf.Host.csprojResolveAssemblyReference.cache
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\obj\Debug\WcfAndroidCallback.Host.exe
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Host\obj\Debug\WcfAndroidCallback.Host.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\Responder.Wcf.Host\bin\Debug\WcfAndroidCallback.Host.exe.config
+D:\my work\GitHub\Responder\Responder.Wcf\Responder.Wcf.Host\obj\Debug\WcfAndroidCallback.Host.exe
+D:\my work\GitHub\Responder\Responder.Wcf\Responder.Wcf.Host\obj\Debug\WcfAndroidCallback.Host.pdb

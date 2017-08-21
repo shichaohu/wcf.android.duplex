@@ -1,0 +1,11 @@
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\bin\Debug\WcfAndroidCallback.Client.exe.config
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\bin\Debug\WcfAndroidCallback.Client.exe
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\bin\Debug\WcfAndroidCallback.Client.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\bin\Debug\WcfAndroidCallback.Service.Interface.dll
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\bin\Debug\WcfAndroidCallback.Service.Interface.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\obj\Debug\Responder.Wcf.Client.csprojResolveAssemblyReference.cache
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\obj\Debug\WcfAndroidCallback.Client.exe
+D:\my work\GitHub\Responder\Responder.Wcf\WcfAndroidCallback.Client\obj\Debug\WcfAndroidCallback.Client.pdb
+D:\my work\GitHub\Responder\Responder.Wcf\Responder.Wcf.Client\bin\Debug\WcfAndroidCallback.Client.exe.config
+D:\my work\GitHub\Responder\Responder.Wcf\Responder.Wcf.Client\obj\Debug\WcfAndroidCallback.Client.exe
+D:\my work\GitHub\Responder\Responder.Wcf\Responder.Wcf.Client\obj\Debug\WcfAndroidCallback.Client.pdb
